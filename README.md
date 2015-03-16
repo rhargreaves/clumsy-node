@@ -1,2 +1,2 @@
 # clumsy-node
-CLuMSY: Command Line Music Synthesizer (Node + Web Audio API)
+CLuMSY: A Music Synthesizer written in Node & Web Audio API
